@@ -1,0 +1,2 @@
+# botKraken
+Kralamour discord bot
