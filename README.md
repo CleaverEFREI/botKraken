@@ -19,3 +19,9 @@ Clé api : https://www.metamob.fr/aide/api
 
 Hebergeur de script python gratuit 24h/24h: 
 https://www.alwaysdata.com/fr/
+
+
+___________________
+
+Commande de lancement:
+!krala Serveur Role (sans le @) TempsPingAvantHeure (en heure) NombresHeuresRefresh (en heure)
