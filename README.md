@@ -1,5 +1,9 @@
 # botKraken - Kralamour discord bot
-
+<br></br>
+<p align="center">
+  <img src="https://i.ibb.co/Wyr28SN/krala.png" />
+</p>
+<br></br>
 Pour utiliser le bot juste creer un fichier sans extension "config"
 et mettre votre clé API et token bot discord sous ce format:
 
