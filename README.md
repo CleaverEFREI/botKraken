@@ -9,9 +9,12 @@ et mettre votre clé API et token bot discord sous ce format:
 
 TOKEN=XXXXXXXXXXXXXXXXXXXXXXXX.XXXXXXX.XXXXXX-XXXXXXXXXX_XXXXXXXXXX
 
-
 API=XXXXXX-XXXXXX-XXXXXX-XXXXXX-XXXXXX
 
+
+
+Token discord : https://discord.com/developers/applications/
+Clé api : https://www.metamob.fr/aide/api
 
 Hebergeur de script python gratuit 24h/24h: 
 https://www.alwaysdata.com/fr/
