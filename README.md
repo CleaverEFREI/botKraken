@@ -14,6 +14,7 @@ API=XXXXXX-XXXXXX-XXXXXX-XXXXXX-XXXXXX
 
 
 Token discord : https://discord.com/developers/applications/
+
 Clé api : https://www.metamob.fr/aide/api
 
 Hebergeur de script python gratuit 24h/24h: 
