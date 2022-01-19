@@ -23,7 +23,7 @@ async def krala(ctx, serv, role_name, alarmtime = 2, checktime=1):
     """
     Commande pour lancer le bot sur le salon souhaité 
     serv : serveur de jeu cible
-    role_name : nom 
+    role_name : nom du role à mention
     alarmtime : en heure
     checktime : en heure
     """
