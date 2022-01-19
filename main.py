@@ -19,7 +19,15 @@ async def on_ready():
 
 
 @bot.command()
-async def krala(ctx, serv, role_name, alarmtime = 2, checktime=3600):
+async def krala(ctx, serv, role_name, alarmtime = 2, checktime=1):
+    """
+    Commande pour lancer le bot sur le salon souhaité 
+    serv : serveur de jeu cible
+    role_name : nom 
+    alarmtime : en heure
+    checktime : en heure
+    """
+    checktime = checktime*60*60
     while True:
         Krala = get(ctx.guild.roles, name=role_name)
         now = datetime.datetime.now()
