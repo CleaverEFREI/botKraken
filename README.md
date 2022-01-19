@@ -4,6 +4,8 @@ Pour utiliser le bot juste creer un fichier sans extension "config"
 et mettre votre clé API et token bot discord sous ce format:
 
 TOKEN=XXXXXXXXXXXXXXXXXXXXXXXX.XXXXXXX.XXXXXX-XXXXXXXXXX_XXXXXXXXXX
+
+
 API=XXXXXX-XXXXXX-XXXXXX-XXXXXX-XXXXXX
 
 
