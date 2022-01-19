@@ -24,4 +24,4 @@ https://www.alwaysdata.com/fr/
 ___________________
 
 Commande de lancement:
-!krala Serveur Role (sans le @) TempsPingAvantHeure (en heure) NombresHeuresRefresh (en heure)
+!krala Serveur Role (sans le @) TempsPingAvantHeure (en heure, defaut=2) NombresHeuresRefresh (en heure, defaut=1)
